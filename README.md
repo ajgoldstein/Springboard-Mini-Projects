@@ -11,4 +11,4 @@ In this project, I performed a statistical analysis to establish whether race ha
 In this project, I critiqued a preliminary analysis for reducing the readmissions rate and constructed a statistically sound analysis with recommendations of my own
 
 ## 4) Linear Regression - Boston Housing
-In this project, I used the "Boston House Price" dataset to conduct a thorough linear regression analysis across 13 possible features, identified the best possible model using AIC, and corrected for residual assumptions by removing outliers.
+In this project, I used a Boston housing dataset to conduct a thorough linear regression analysis across 13 possible features and accurately predict house price with minimal complexity.
